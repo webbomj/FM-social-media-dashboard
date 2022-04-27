@@ -92,3 +92,12 @@
 .card__bot-counter-red {
   color: hsl(356, 69%, 56%)
 }
+
+
+@media (max-width: 375px) {
+  .card {
+    width: 325px;
+    margin-bottom: 22px;
+  }
+
+}

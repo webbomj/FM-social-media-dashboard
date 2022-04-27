@@ -20,6 +20,7 @@ const Header = () => {
       <div className='header__leftBlock'>
         <h1 className='header__h1'>Social Media Dashboard</h1>
         <span className='header__leftSpan'>Total Followers: 23,004</span>
+        <div className='header__hr'></div>
       </div>
       <div className='header__rightBlock'>
         <span className='header__rightSpan'>Dark Mode</span>

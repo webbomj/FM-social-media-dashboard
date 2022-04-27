@@ -14,3 +14,20 @@
   display: flex;
   flex-wrap: wrap;
 }
+
+@media (max-width:375px) {
+  .statistics-wrapper {
+    margin: 0;
+    width: 375px;
+  }
+
+  .statistics-h2 {
+    margin: 15px 0 0 24px;
+  }
+
+  .statistcsBlocks {
+    margin-top: 27px;
+  }
+
+  
+}

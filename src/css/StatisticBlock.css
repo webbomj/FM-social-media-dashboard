@@ -70,3 +70,10 @@
 .statisticBlock__grow-count--green {
   color: hsl(163, 72%, 41%)
 }
+
+@media (max-width: 375px) {
+  .statisticBlock {
+    width: 327px;
+    margin: 0 0 16px 24px;
+  }
+}
