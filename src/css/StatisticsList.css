@@ -1,0 +1,16 @@
+.statistics-wrapper {
+  margin: 0 350px;
+  width: 1110px;
+}
+
+.statistics-h2 {
+  text-align: left;
+  color: var(--text-color);
+  margin: 22px 0 0 0;
+}
+
+.statistcsBlocks {
+  margin-top: 24px;
+  display: flex;
+  flex-wrap: wrap;
+}

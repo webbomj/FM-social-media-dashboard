@@ -1,0 +1,7 @@
+.mainMedia-wrapper {
+  display: flex;
+  width: 1200px;
+  height: 270px;
+  margin: -120px 0 0 305px;
+  padding: 30px 30px 10px 45px;
+}

@@ -1,0 +1,72 @@
+.statisticBlock {
+  width: 255px;
+  height: 125px;
+  border-radius: 5px;
+  background-color: var(--card-bg-color);
+  margin-right: 30px;
+  margin-bottom: 24px;
+}
+
+.statisticBlock:nth-child(4n) {
+  margin-right: 0px;
+}
+
+.statisticBlock:hover{
+  background-color: hsla(230, 27%, 29%, 0.697);
+}
+
+.statisticBlock__top {
+  padding-top: 26px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.statisticBlock__params {
+  color: var(--text-color);
+  font-weight: 700;
+  font-size: 14px;
+  margin-left: 24px;
+}
+
+.statisticBlock__img {
+  margin-right: 31px;
+  margin-top: 1px;
+}
+
+.statisticBlock__bot {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 25px;
+}
+
+.statisticBlock__count {
+  color: var(--text-number-color);
+  font-size: 30px;
+  font-weight: 700;
+  margin-left: 25px;
+  transform: translateY(-3px);
+}
+
+.statisticBlock__grow {
+  padding: 0 25px;
+}
+
+.statisticBlock__arrow {
+  transform: translateY(10px);
+}
+
+.statisticBlock__grow-count {
+  display: inline-block;
+  font-size: 13px;
+  transform: translateY(10px);
+}
+
+.statisticBlock__grow-count--red {
+  color: hsl(356, 69%, 56%)
+}
+
+.statisticBlock__grow-count--green {
+  color: hsl(163, 72%, 41%)
+}
