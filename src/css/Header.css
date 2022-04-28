@@ -1,7 +1,7 @@
 .header{
   background-color: var(--top-bg-color);
   margin-top: -20px;
-  margin-left: 185px;
+  /* margin-left: 185px; */
   width: 1440px;
   height: 244px;
   border-bottom-left-radius: 20px;

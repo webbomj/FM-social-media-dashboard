@@ -6,12 +6,12 @@ const StatisticBlock = ({data}) => {
     <div className='statisticBlock'>
       <div className='statisticBlock__top'>
         <span className='statisticBlock__params'>{data.params}</span>
-        <img src={data.imgSrc} className='statisticBlock__img'/>
+        <img src={data.imgSrc} className='statisticBlock__img' alt={data.params}/>
       </div>
       <div className='statisticBlock__bot'>
         <span className='statisticBlock__count'>{data.counter}</span>
         <div className='statisticBlock__grow'>
-          <img src={data.growth} className='statisticBlock__arrow'/>
+          <img src={data.growth} className='statisticBlock__arrow' alt={data.counter}/>
           <span 
             className={`statisticBlock__grow-count ${data.growth === up ?
              'statisticBlock__grow-count--green' 
