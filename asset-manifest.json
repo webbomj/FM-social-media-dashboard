@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/FM-social-media-dashboard/static/css/main.8ac844fa.css",
-    "main.js": "/FM-social-media-dashboard/static/js/main.2a75c4e5.js",
+    "main.css": "/FM-social-media-dashboard/static/css/main.a7433b4c.css",
+    "main.js": "/FM-social-media-dashboard/static/js/main.0cf5ad73.js",
     "static/media/icon-instagram.svg": "/FM-social-media-dashboard/static/media/icon-instagram.568b5795d56c7d9247f495cb5488f8be.svg",
     "index.html": "/FM-social-media-dashboard/index.html",
     "static/media/icon-twitter.svg": "/FM-social-media-dashboard/static/media/icon-twitter.a0c5f64d440de29ad911970d8d8eb821.svg",
@@ -9,11 +9,11 @@
     "static/media/icon-facebook.svg": "/FM-social-media-dashboard/static/media/icon-facebook.8deee3e3b5c57f63a1f487e146852570.svg",
     "static/media/icon-down.svg": "/FM-social-media-dashboard/static/media/icon-down.0c77426d8f1ab70c4ae629868c263878.svg",
     "static/media/icon-up.svg": "/FM-social-media-dashboard/static/media/icon-up.359200b20d83a37cfb26d6de21236570.svg",
-    "main.8ac844fa.css.map": "/FM-social-media-dashboard/static/css/main.8ac844fa.css.map",
-    "main.2a75c4e5.js.map": "/FM-social-media-dashboard/static/js/main.2a75c4e5.js.map"
+    "main.a7433b4c.css.map": "/FM-social-media-dashboard/static/css/main.a7433b4c.css.map",
+    "main.0cf5ad73.js.map": "/FM-social-media-dashboard/static/js/main.0cf5ad73.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ac844fa.css",
-    "static/js/main.2a75c4e5.js"
+    "static/css/main.a7433b4c.css",
+    "static/js/main.0cf5ad73.js"
   ]
 }
