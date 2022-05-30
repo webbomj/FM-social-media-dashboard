@@ -93,6 +93,16 @@
   color: hsl(356, 69%, 56%)
 }
 
+@media (max-width: 1120px) {
+  .card{
+    margin-bottom: 30px;
+  }
+
+  .card:nth-child(4n) {
+    margin-right: 29px;
+  }
+}
+
 
 @media (max-width: 375px) {
   .card {

@@ -6,6 +6,15 @@
   padding: 30px 30px 10px 45px;
 }
 
+@media (max-width:1120px) {
+  .mainMedia-wrapper {
+    width: 100%;
+    flex-wrap: wrap;
+    height: 100%;
+    justify-content: center;
+  }
+}
+
 @media (max-width:375px) {
   .mainMedia-wrapper {
     flex-direction: column;
