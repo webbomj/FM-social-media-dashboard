@@ -2,6 +2,8 @@
 Практическая работа с сайта `frontendmentor.io`<br>
 Красивая оформленная статистика социальных сетей с возможностью переключать тему с ночного на дневной.<br>
 [DEMO](https://webbomj.github.io/FM-social-media-dashboard/).
+
+Макет - это картинка! Без фигмы.
 ![Design preview for the Social media dashboard with theme switcher coding challenge](./src/img/desktop-design-dark.jpg)
 
 ## Скрипты
